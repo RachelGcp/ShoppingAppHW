@@ -1,0 +1,7 @@
+C:\Users\ed2041\shopping-app\ShoppingAPI\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.csproj.AssemblyReference.cache
+C:\Users\ed2041\shopping-app\ShoppingAPI\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ed2041\shopping-app\ShoppingAPI\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.AssemblyInfoInputs.cache
+C:\Users\ed2041\shopping-app\ShoppingAPI\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.AssemblyInfo.cs
+C:\Users\ed2041\shopping-app\ShoppingAPI\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.csproj.CoreCompileInputs.cache
+C:\Users\ed2041\shopping-app\ShoppingAPI\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ed2041\shopping-app\ShoppingAPI\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.MvcApplicationPartsAssemblyInfo.cache
