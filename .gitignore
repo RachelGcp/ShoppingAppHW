@@ -19,3 +19,4 @@ coverage/
 .vscode/
 bin/
 *.dll
+/ShoppingAPI/.vs/ShoppingApp/FileContentIndex
